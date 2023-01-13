@@ -8,6 +8,10 @@ public class Main {
       public static void addtowNum(int a, int b){
     	  System.out.println(a+b);
     	  System.out.println("Hello");
+	      
+	      
+	      
+	      //Farouqs changes
     	
       }
       }
